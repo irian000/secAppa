@@ -1,2 +1,4 @@
 const t = 9000
-colose.log(t);
+const p = 329
+cosnt s = t - p
+console.log(s);
